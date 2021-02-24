@@ -1,4 +1,4 @@
 # Memoirs
 
-These are my memoirs.
+These are my remarkable memoirs.
 
