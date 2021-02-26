@@ -2,5 +2,5 @@
 
 These are my fantastic, remarkable memoirs.
 
-Memoirs are great.
+Memoirs are neat.
 
