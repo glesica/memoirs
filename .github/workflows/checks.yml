@@ -1,0 +1,13 @@
+name: Spelling
+
+on: [push, pull_request]
+
+jobs:
+  george-spelling:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: George Spelling
+        run: ./check.sh
