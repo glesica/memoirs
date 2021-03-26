@@ -1,4 +1,4 @@
 # Adventure
 
-George had an adventure.
+george had an adventure.
 
